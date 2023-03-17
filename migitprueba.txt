@@ -2,3 +2,5 @@ prueba del git
 algo
 holaquehaces
 arreglao
+
+conflicto truco
